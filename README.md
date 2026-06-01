@@ -1,4 +1,4 @@
-📂 Firebase Authentication & Database Practice Project
+📂 Firebase Authentication & Database Practice Project 
 
 This repository contains my practice work created while learning Firebase integration in Android. It demonstrates user authentication using Google Sign-In along with Firebase Realtime Database operations such as adding, updating, deleting data, and uploading images to Firebase Storage.
 
