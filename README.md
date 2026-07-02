@@ -5,7 +5,7 @@ This repository contains my practice work created while learning Firebase integr
 📚 About
 The purpose of this project is to understand how Firebase services work together in an Android application. It covers authentication, database management, and cloud storage implementation through hands-on practice.
  
-🚀 Topics Covered
+🚀 Topics Covered 
 
 Firebase Project Setup
 Connecting Android App with Firebase
