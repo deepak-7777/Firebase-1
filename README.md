@@ -28,7 +28,7 @@ Display Images in App
 Firebase Authentication
 Google Sign-In Provider
 Firebase Realtime Database
-Firebase Storage
+Firebase Storage 
 
 🛠️ Tech Used
 
